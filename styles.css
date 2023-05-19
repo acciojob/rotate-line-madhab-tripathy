@@ -5,8 +5,10 @@
         display: flex;
         align-items: center;
         justify-content: center;
+		position:relative;
     }
     #line{
+		position:absolute;
         height: 2px;
         width: 200px;
         background-color: #000;
